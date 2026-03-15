@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C언어의 정석/C언어의 정석.vcxproj" Id="693ed228-a6db-474e-95ac-f470a68a6329" />
+</Solution>
